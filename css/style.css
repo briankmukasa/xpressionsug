@@ -377,9 +377,9 @@ ul, ol {
 	font-size: 20px;
 	padding-top: 6px !important;
 	border-radius: 1px;
-	-webkit-transition: all 0.4s;
-	-moz-transition: all 0.4s;
-	-o-transition: all 0.4s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
 	transition: all 0.5s;
 }
 .hero-slider .owl-nav button.owl-prev:hover, .hero-slider .owl-nav button.owl-next:hover {
